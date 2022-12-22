@@ -1,2 +1,2 @@
 # PureCSS_Accordion
- Pure CSS Accordion o JS
+ Pure CSS Accordion no JS
